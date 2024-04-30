@@ -83,8 +83,6 @@
 
 ## Использование Git Flow в проекте
 Как шаблон для новых релизов создадим отдельную ветку `next-release`
-![Скриншот 28](/screenshots/Screenshot_27.png)
-
 Выполним инициализацию с помощью команды `git flow init`
 ![Скриншот 29](/screenshots/Screenshot_29.png)
 
